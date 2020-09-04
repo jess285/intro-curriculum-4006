@@ -20,6 +20,7 @@
     "serve-favicon": "~2.3.0"
   },
   "devDependencies": {
-    "webpack": "^1.12.13"
+    "webpack": "^1.12.13",
+    "webpack-cli": "^3.3.12"
   }
 }
